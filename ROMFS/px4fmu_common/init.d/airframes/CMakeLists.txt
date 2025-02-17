@@ -80,6 +80,7 @@ if(CONFIG_MODULES_MC_RATE_CONTROL)
 		6001_hexa_x
 		6002_draco_r
 
+
 		# [7000, 7999] Hexarotor +
 		7001_hexa_+
 
